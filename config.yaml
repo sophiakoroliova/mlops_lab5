@@ -1,0 +1,7 @@
+project_name: "mlops_lab5"
+data:
+  test_size: 0.2
+model:
+  n_estimators: 150
+  max_depth: 20
+  random_state: 42
