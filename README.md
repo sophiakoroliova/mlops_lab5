@@ -6,7 +6,7 @@ This project demonstrates the implementation of experiment tracking and artifact
 - `train.py`: Main script for model training and W&B experiment tracking.
 - `config.yaml`: Configuration file containing hyperparameters and data settings.
 - `requirements.txt`: List of required Python libraries (wandb, scikit-learn, etc.).
-- `.gitignore`: Configuration to exclude unnecessary files (.idea/, venv/, *.pkl) from the repository
+- `.gitignore`: Configuration to exclude unnecessary files (.idea/, venv/, *.pkl) from the repository.
 ## 🚀 How to Run
 ### 1. Install requirements:
  ```bash
